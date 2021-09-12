@@ -1,6 +1,8 @@
-# Hey there 👋 I am Peter
+# Hey there 👋 I'm Peter
 
 <p align='center'>I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. </p>
+
+### This readme is currently under construction
 
 <p align='center'>
 <a href="https://google.com/">
