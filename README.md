@@ -1,7 +1,7 @@
 # Hey there 👋 I'm Peter
 
-| I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. | 
-:-: 
+######                 I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. 
+
 
 <p align='center'>I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. </p>
 
