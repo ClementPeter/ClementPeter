@@ -1,18 +1,15 @@
 # Hey there 👋 I'm Peter
 
-######                 I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. 
-
 
 <p align='center'>I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. </p>
 
-### This readme is currently under construction
+### This readme is currently under construction ✌
 
 <p align='center'>
 <a href="https://google.com/">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:xyz@gmail.com">
-
 
 
 
