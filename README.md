@@ -1,5 +1,8 @@
 # Hey there 👋 I'm Peter
 
+I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies.
+:-: 
+
 <p align='center'>I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. </p>
 
 ### This readme is currently under construction
