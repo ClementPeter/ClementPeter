@@ -1,5 +1,6 @@
 # Hey there 👋 I'm Peter
 
+<H1 align='center'>Hi 👋 I am Clement Peter!</H1>
 
 <p align='center'>I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. </p>
 
