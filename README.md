@@ -5,19 +5,25 @@
 
   
 <p align='center'>
-  <a href="mailto:clementpeter2000@gmail.com">
+<a href="mailto:clementpeter2000@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/">
+  
+<a href="https://twitter.com/_carlos_dev">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/_carlos_dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <a href="https://carlosdev.hashnode.dev/">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>&nbsp;&nbsp;
+  
 <a href="https://www.linkedin.com/in/clement-peter-b704b21a9/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+  
+
 
 </p>
 
@@ -36,14 +42,6 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
 
 ---
-
-### This readme is currently under construction ✌
-
-<p align='center'>
-<a href="https://google.com/">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:xyz@gmail.com">
 
 
 
