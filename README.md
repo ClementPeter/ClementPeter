@@ -3,8 +3,24 @@
 
 <p align='center'>I'm a Student working on bringing on ideas to life  by building them via various Hardware and Software technologies. </p>
 
-<p align='center'>An undergrad studying Computer Science who loves to solve and make this complicated world easy.
-I am addicted to music and coffee, currently living in Uttarakhand, India. While being enthusiastic about development, I specialize in cross-platform development (Flutter/Dart) and UI/UX. I love to build things that people love✌.
+
+  
+  
+<p align='center'>
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:clementpeter2000@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://carlosdev.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/clement-peter-b704b21a9/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+</p>
 
 ### This readme is currently under construction ✌
 
