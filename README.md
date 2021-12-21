@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/_carlos_dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/_carlos_dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <a href="https://carlosdev.hashnode.dev/">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
@@ -43,14 +43,6 @@
 
 ---
 
-
-
-
-- 👋 Hi, I’m @ClementPeter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ClementPeter/ClementPeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
