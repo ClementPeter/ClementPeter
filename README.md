@@ -3,7 +3,6 @@
 
 <p align='center'>I'm a Student working on bringing on ideas to life  by building them via various Hardware and Software technologies. </p>
 
----  
   
 <p align='center'>
 <a href="https://twitter.com/">
