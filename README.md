@@ -1,8 +1,10 @@
-# Hey there 👋 I'm Peter
 
 <H1 align='center'>Hey there 👋 I am Peter </H1>
 
-<p align='center'>I'm a student and I bring ideas to life by utilizing various Hardware and Software technologies. </p>
+<p align='center'>I'm a Student working on bringing on ideas to life  by building them via various Hardware and Software technologies. </p>
+
+<p align='center'>An undergrad studying Computer Science who loves to solve and make this complicated world easy.
+I am addicted to music and coffee, currently living in Uttarakhand, India. While being enthusiastic about development, I specialize in cross-platform development (Flutter/Dart) and UI/UX. I love to build things that people love✌.
 
 ### This readme is currently under construction ✌
 
