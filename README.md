@@ -1,4 +1,5 @@
-<H1 align='center'>Hey there 👋 I am Peter </H1>---
+<H1 align='center'>Hey there 👋 I am Peter </H1>
+---
 
 <p align='center'>I'm a Student working on bringing on ideas to life  by building them via various Hardware and Software technologies. </p>
 ---  
