@@ -1,5 +1,4 @@
-<H1 align='center'>Hey there 👋 I am Peter ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </H1>
-
+<H1 align='center'>Hey there, I am Peter <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </H1>
 
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
