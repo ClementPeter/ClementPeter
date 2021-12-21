@@ -1,4 +1,8 @@
-<H1 align='center'>Hey there 👋 I am Peter </H1>
+<H1 align='center'>Hey there 👋 I am Peter ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </H1>
+
+
+
+## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
 <p align='center'>I'm a Student working on bringing ideas to life  by building them via various Hardware and Software technologies. </p>
