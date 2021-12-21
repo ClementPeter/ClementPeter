@@ -1,9 +1,6 @@
 <H1 align='center'>Hey there, I am Peter <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </H1>
 
 
-## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-
 <p align='center'>I'm a Student working on bringing ideas to life  by building them via various Hardware and Software technologies. </p>
 
   
@@ -26,7 +23,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
   
-
 
 </p>
 
@@ -51,7 +47,6 @@
 ClementPeter/ClementPeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementPeter&hide=issues&show_icons=true)
