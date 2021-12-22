@@ -3,7 +3,7 @@
 
 <p align='center'>I'm a Student working on bringing ideas to life  by building them via various Hardware and Software technologies. </p>
 
-<p align='center'><H2> I'm a Student working on bringing ideas to life  by building them via various Hardware and Software technologies.</H2> </p>
+<p align='center'><H3> I'm a Student working on bringing ideas to life  by building them via various Hardware and Software technologies.</H3> </p>
 
   
 <p align='center'>
