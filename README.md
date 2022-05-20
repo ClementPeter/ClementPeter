@@ -1,7 +1,7 @@
 <H1 align='center'>Hey there, I am Peter <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </H1>
 
 
-<p align='center'><H3 align='center'> I'm a Student working on bringing ideas to life  by building them via various Hardware and Software technologies.</H3> </p>
+<p align='center'><H3 align='center'> I'm a student working on bringing ideas to life by building them via various hardware and software technologies.</H3> </p>
 
   
 <p align='center'>
