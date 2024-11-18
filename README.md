@@ -1,33 +1,23 @@
 <H1 align='center'>Hey there, I am Peter </H1>
 
 
-<p align='center'><H3 align='center'> I bring ideas to life by building them via various hardware and software technologies.</H3> </p>
+<p align='center'> 
+  <H3 align='center'> I enjoy learning and practicing by building stuff them via various hardware and software technologies.</H3>
+</p>
 
-  
 <p align='center'>
-<a href="mailto:clementpeter2000@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
   
-<a href="https://twitter.com/_carlos_dev">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-  
-
-
 <a href="https://carlosdev.hashnode.dev/">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>&nbsp;&nbsp;
-  
+
 <a href="https://www.linkedin.com/in/clement-peter-b704b21a9/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-  
 
 </p>
 
 ---
-
 🛠 <b>Tech Stack</b>
 
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
